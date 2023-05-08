@@ -21,7 +21,7 @@ const postTablas = async(arg)=>{
     };
     return await ( await fetch(`http://localhost:${puerto}/tablas`, config) ).json();
 }
-
+dfds
 const delteTablas = async(arg)=>{
     console.log("delete");
     let config = {

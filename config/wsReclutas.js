@@ -5,3 +5,4 @@ self.addEventListener("message", (e)=>{
     Promise.resolve(res).then(res=>postMessage(res));
 })
 
+dfgd
