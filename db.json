@@ -1,0 +1,47 @@
+{
+    "Reclutas": [
+        {
+            "id":"",
+            "nombre":"dss",
+            "edad":"12",
+            "telefono":"35435",
+            "emal":"fsfd@",
+            "direcion":"dsfd",
+            "fecha_nacimiento":"14524",
+            "numero_identificacion":"1045424",
+            "fecha_ingreso_programa":"2414",
+            "id_team":"sda"
+        }
+    ],
+
+    "Team":[
+        {
+            "id":"",
+            "nombre":"dss",  
+            "trainer_asociado":"miguel"
+        }
+
+    ],
+    "Skill":[
+        {
+            "id":"",
+            "nombre":"spunik"
+        }
+    ],
+    "Modulo Skill":[
+        {
+            "id":"",
+            "nombre":"sasd", 
+            "id_skill":"12"
+        }
+    ],
+    "Evaluación":[
+        {
+            "id_recluta":"",
+            "id_modulo":"",
+            "nota":""
+        } 
+    ]
+
+}
+
